@@ -1,7 +1,9 @@
-# 🌱 About Me :
+#  Portfolio
 
-# 🛠️ Languages and Tools :
+**🌱 About Me :**
 
-# 📫 Test Scenario / Scripts 
+**🛠️ Languages and Tools :**
 
-# ⚡ Automation Projects :
+**📫 Test Scenario / Scripts** 
+
+**⚡ Automation Projects :**
